@@ -1,6 +1,6 @@
-table,
+
 td {
-    border: 1px solid #333;
+    border: 4px solid grey;
 }
 
 thead,
@@ -10,17 +10,32 @@ tfoot {
 }
 .config{
     background-color: red;
+    color: white;
 }
 .creation{
     background-color:aqua ;
+    color: black;
 }
 .changement{
     background-color: greenyellow;
+    color: black;
 }
 .grouper{
     background-color: chocolate;
+    color: white;
 }
 table{
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 475px;
+  top: auto;
+  padding-top: 150px;
+
+}
+body{
+    background-repeat: no-repeat;
+   
+ background-image: url(https://www.cartabledunemaitresse.fr/wp-content/uploads/telechargements/tice/tbi/seyes_10mm_17x22_videop.png);
+}
+img{
+    display:flex ;
+    justify-content: center;
 }
