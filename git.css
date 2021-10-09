@@ -8,3 +8,19 @@ tfoot {
     background-color: #333;
     color: #fff;
 }
+.config{
+    background-color: red;
+}
+.creation{
+    background-color:aqua ;
+}
+.changement{
+    background-color: greenyellow;
+}
+.grouper{
+    background-color: chocolate;
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
